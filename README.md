@@ -1,0 +1,2 @@
+The main focus of this project is on a recent survey to a select customer cohort done by one of the fastest growing startups in the logistics and delivery domain that thrives on making their customers happy. A subset of this data is provided.
+The primary objective of this project is to predict if a customer is happy or not based on the answers they have given to the questions asked based on different predictive models. The models considered for prediction are Logistic Regression, Deep Learning, and Ensemble Learning models.
